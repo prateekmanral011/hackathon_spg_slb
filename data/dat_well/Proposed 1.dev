@@ -1,0 +1,15 @@
+# WELL TRACE FROM PETREL 
+# WELL NAME:              Proposed 1
+# WELL HEAD X-COORDINATE: 452286.88183089
+# WELL HEAD Y-COORDINATE: 6783583.01966365
+# WELL KB:                0.00000000
+# WELL TYPE:              PROPOSED
+# MD AND TVD ARE REFERENCED (=0) AT KB AND INCREASE DOWNWARDS
+# ANGLES ARE GIVEN IN DEGREES
+# ANGLES ARE NOT EXACT (TRACE WAS NOT IMPORTED USING ANGLES)
+# MD IS NOT EXACT (TRACE WAS NOT IMPORTED WITH MD-DATA)
+#======================================================================================================================================
+      MD              X              Y             Z           TVD           DX           DY          AZIM          INCL          DLS
+#======================================================================================================================================
+ 1447.1845703   452286.88183 6783583.0197 -1447.184570 1447.1845703 0.0000000000 0.0000000000 73.672936070 50.476043200 0.0000000000
+ 2607.5914813   453145.87499 6783834.6473 -2185.668457 2185.6684570 858.99316406 251.62768555 73.672936070 50.476043200 0.0000000000
